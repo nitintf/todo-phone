@@ -1,5 +1,3 @@
-### Todo App
+# Todo App
 
----
-
-## Created using React Native
+### Created using React Native
